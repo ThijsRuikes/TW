@@ -1,5 +1,5 @@
 function [user_def] = UserDef()
-%V2
+
 %% Setup variables for tracking
 % These variables will control tracking output. Set 'single_frame' to 1to
 % run the tracking algorithm for one frame, to test the current settings.
